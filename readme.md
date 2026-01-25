@@ -4,3 +4,7 @@ Hi, I'm Kentural
 
 我的[个人博客](https://b.oxue.de)
 **欢迎来围观！**
+
+::: left
+测试
+:::
