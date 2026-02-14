@@ -24,7 +24,7 @@ body:
         siteurl: "站点链接",
       render: yaml
     validations:
-    required: true
+      required: true
   - type: input
     attributes:
       label: 站点友链页面
