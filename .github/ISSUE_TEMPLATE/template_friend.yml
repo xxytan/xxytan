@@ -5,11 +5,9 @@ body:
   - type: checkboxes
     attributes:
       label: 站点要求
-      description: "请确保您的站点符合以下要求"
+      description: "请确保贵点符合以下要求"
       options:
         - label: 提交申请时处于可用状态
-          required: true
-        - label: 不涉政、黄、赌、毒
           required: true
         - label: 已事先添加本站的友链信息
           required: true
