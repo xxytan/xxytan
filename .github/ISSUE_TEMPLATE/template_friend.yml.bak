@@ -27,7 +27,7 @@ body:
     attributes:
       label: 站点友链页面
       description: "能够在贵站看到本站友链信息的页面"
-      value: "https://"
+      placeholder: "e.g. b.oxue.de/friends"
     validations:
       required: true
   - type: markdown
