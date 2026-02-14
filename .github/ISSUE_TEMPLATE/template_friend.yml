@@ -7,11 +7,11 @@ body:
       label: 站点要求
       description: "请确保您的站点符合以下要求"
       options:
-        - label: 提交申请时站点处于可用状态
+        - label: 提交申请时处于可用状态
           required: true
         - label: 不涉政、黄、赌、毒
           required: true
-        - label: 贵站已事先添加本站的友链信息
+        - label: 已事先添加本站的友链信息
           required: true
   - type: textarea
     attributes:
@@ -35,7 +35,6 @@ body:
   - type: markdown
     attributes:
       value: |
-        \
         #### 站长提醒
         - 站长可能因某些原因（睡觉、上学、吃席…）未能及时添加贵站友链信息，但不会装看不见🤫
         - 请确保您的站点处于**可用**状态。站长偶尔会访问贵站，若遇**无法访问**的情况，您的站点会被打上`失联`标签，直至您的站点恢复正常🥰
