@@ -1,6 +1,10 @@
-Hi, I'm Kentural
+# Hi buddy! 👋
 
-小县城一个普普通通的中学生，爱搞机，
+I'm Kentural, a still on-school student, from a infamous town. 👀
 
-我的[个人博客](https://www.oxue.de)\
-**欢迎来围观！**
+- I'm into English, French, and computers, *but still not a programmer*. 😎
+- A potato lover. 🥔
+- Always waste time on things others think are meaningless. 😱
+
+Also, welcome to visit [my blog](https://www.oxue.de)!
+> Feels like nothing interesting in it.
